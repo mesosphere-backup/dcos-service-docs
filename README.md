@@ -3,7 +3,9 @@
 This repo includes some template docs to be added to a datacenter service's GitHub repository and published via [GitHub pages](https://pages.github.com/). Docs use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
 
 For examples of this template in use, please see:
+
 1. the [Marathon project](https://mesosphere.github.io/marathon/docs/)
+
 1. the [Mesos DNS project](https://mesosphere.github.io/mesos-dns/docs/)
 
 ## Usage
